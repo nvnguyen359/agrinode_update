@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "firmware_url": "https://raw.githubusercontent.com/nvnguyen359/agrinode_update/main/firmware.bin",
   "release_notes": "Cập nhat phiên bản 1.0.4: \n- Cải thiện hiệu suất và độ ổn định của hệ thống.\n- Sửa lỗi nhỏ liên quan đến giao diện người dùng.\n- Thêm tính năng mới để hỗ trợ quản lý thiết bị tốt hơn."
 }
