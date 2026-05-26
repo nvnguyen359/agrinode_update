@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "firmware_url": "https://raw.githubusercontent.com/nvnguyen359/agrinode_update/main/firmware.bin",
   "release_notes": "Cập nhật phiên bản 1.1.0: \n- Kiểm tra OTA: Thêm chức năng kiểm tra phiên bản mới từ máy chủ trước khi tiến hành cập nhật. \n- Cải thiện hiệu suất: Tối ưu hóa quá trình cập nhật để giảm thời gian và tăng độ ổn định. \n- Sửa lỗi: Khắc phục một số lỗi nhỏ đã được phát hiện trong phiên bản trước."
 }
